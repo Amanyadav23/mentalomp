@@ -1,4 +1,4 @@
-# Powered By @AdityaHalder
+# Powered By @A_4_AMAN_YADAV_0FFICIAL
 
 import random
 from pyrogram.types import InlineKeyboardButton
