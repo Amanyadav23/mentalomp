@@ -23,7 +23,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("AdityaHalder").error(
+        LOGGER("⛦⃕͜☬𝔾 𝕋☬🥀🦠 Viͥruͣsͫ 🦠 🥀").error(
             "🥀 𝐍𝐨 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝐂𝐥𝐢𝐞𝐧𝐭𝐬 [𝐕𝐚𝐫𝐬] 𝐅𝐨𝐮𝐧𝐝❗"
         )
         return
@@ -31,7 +31,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("𝐀𝐝𝐢𝐭𝐲𝐚𝐇𝐚𝐥𝐝𝐞𝐫").warning(
+        LOGGER("⛦⃕͜☬𝔾 𝕋☬🥀🦠 Viͥruͣsͫ 🦠 🥀").warning(
             "🥀 𝐍𝐨 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐕𝐚𝐫𝐬 𝐃𝐞𝐟𝐢𝐧𝐞𝐝❗...\n🌷 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐖𝐨𝐧'𝐭 𝐁𝐞 𝐀𝐛𝐥𝐞 𝐓𝐨 𝐏𝐥𝐚𝐲 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐐𝐮𝐞𝐫𝐢𝐞𝐬❗..."
         )
     try:
@@ -56,14 +56,14 @@ async def init():
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
         )
     except NoActiveGroupCall:
-        LOGGER("𝐀𝐝𝐢𝐭𝐲𝐚𝐇𝐚𝐥𝐝𝐞𝐫").error(
+        LOGGER("⛦⃕͜☬𝔾 𝕋☬🥀🦠 Viͥruͣsͫ 🦠 🥀").error(
             "[𝐄𝐫𝐫𝐨𝐫] - \n\n🥀 𝐏𝐥𝐞𝐚𝐬𝐞 𝐓𝐮𝐫𝐧 𝐎𝐧 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐎𝐟 𝐘𝐨𝐮𝐫 𝐋𝐨𝐠𝐠𝐞𝐫 𝐆𝐫𝐨𝐮𝐩❗..."
         )
         sys.exit()
     except:
         pass
     await aditya.decorators()
-    LOGGER("𝐀𝐝𝐢𝐭𝐲𝐚𝐇𝐚𝐥𝐝𝐞𝐫").info("🥳 𝐂𝐨𝐧𝐠𝐫𝐚𝐭𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬, 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 ✨...")
+    LOGGER("⛦⃕͜☬𝔾 𝕋☬🥀🦠 Viͥruͣsͫ 🦠 🥀").info("🥳 𝐂𝐨𝐧𝐠𝐫𝐚𝐭𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬, 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐃𝐞𝐩𝐥𝐨𝐲𝐞𝐝 ✨...")
     await idle()
 
 
