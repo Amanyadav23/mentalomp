@@ -214,7 +214,7 @@ async def start_comm(client, message: Message, _):
                 user_name = "{message.from_user.mention}"
             return await bot.send_photo(
                 config.LOG_GROUP_ID,
-                photo=f"https://te.legra.ph/file/c6e1041c6c9a12913f57a.png",
+                photo=f"https://telegra.ph/file/c87b4a688ff907bfd5f2e.jpg",
                 caption=f"""
 **━━━━━━━━━━━━━━━━━━━**
 **💥 𝐀𝐧 𝐔𝐬𝐞𝐫 𝐇𝐚𝐬 ❥︎ 𝐉𝐮𝐬𝐭 𝐒𝐭𝐚𝐫𝐭𝐞𝐝**
