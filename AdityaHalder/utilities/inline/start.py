@@ -1,4 +1,4 @@
-# Powered By @AdityaHalder
+# Powered By @A_4_AMAN_YADAV_0FFICIAL
 
 from typing import Union
 from pyrogram.types import InlineKeyboardButton
@@ -18,7 +18,7 @@ def start_pannel(_):
         [
             InlineKeyboardButton(
                 text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                url=f"https://t.me/+VW5wrX2_qOQzMzVl}",
+                url=f"https://t.me/+VW5wrX2_qOQzMzVl",
             ),
             InlineKeyboardButton(
                 text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
