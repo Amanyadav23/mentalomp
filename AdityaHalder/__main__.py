@@ -69,4 +69,4 @@ async def init():
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("AdityaHalder").info("💐 𝐒𝐲𝐬𝐭𝐞𝐦 𝐒𝐭𝐨𝐩𝐩𝐞𝐝, 𝐆𝐨𝐨𝐝𝐛𝐲𝐞❗...")
+    LOGGER("Aman Yadav").info("💐 𝐒𝐲𝐬𝐭𝐞𝐦 𝐒𝐭𝐨𝐩𝐩𝐞𝐝, 𝐆𝐨𝐨𝐝𝐛𝐲𝐞❗...")
