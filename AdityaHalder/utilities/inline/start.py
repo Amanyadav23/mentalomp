@@ -12,17 +12,17 @@ def start_pannel(_):
         [
             InlineKeyboardButton(
                 text="🥀 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 ✨",
-                url=f"https://t.me/{bot.username}?start=help",
+                url=f"https://t.me/GT_MUSICBOT?start=help",
             )
         ],
         [
             InlineKeyboardButton(
                 text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                url=f"{SUPPORT_CHANNEL}",
+                url=f"https://t.me/+VW5wrX2_qOQzMzVl}",
             ),
             InlineKeyboardButton(
                 text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                url=f"{SUPPORT_GROUP}",
+                url=f"https://t.me/A_4_AMAN_YADAV_0FFICIAL",
             )
         ],
         [
@@ -38,15 +38,15 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="➕ ❰ 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕",
-                url=f"https://t.me/{bot.username}?startgroup=true"),
+                url=f"https://t.me/GT_MUSICBOT?startgroup=true"),
         ],
         [
             InlineKeyboardButton(
                 text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
-                url=f"{SUPPORT_CHANNEL}"),
+                url=f"https://t.me/+VW5wrX2_qOQzMzVl"),
             InlineKeyboardButton(
                 text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
-                url=f"{SUPPORT_GROUP}")
+                url=f"https://t.me/A_4_AMAN_YADAV_0fficial")
         ],
         [
             InlineKeyboardButton(
@@ -62,7 +62,7 @@ def private_panelx(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="➕ ❰ 𝐀𝐝𝐝 𝐌𝐞 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 ❱ ➕",
-                url=f"https://t.me/{bot.username}?startgroup=true"),
+                url=f"https://t.me/GT_MUSICBOT?startgroup=true"),
         ],
         [
             InlineKeyboardButton(
