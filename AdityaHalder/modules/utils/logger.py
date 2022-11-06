@@ -27,7 +27,7 @@ async def play_logs(message, streamtype):
 **🌿 𝐋𝐢𝐧𝐤 : ›** {chatusername}
 **🌱 𝐈𝐃✩ : ›** `{message.chat.id}`
 **━━━━━━━━━━━━━━━━━━━**
-**🔥 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : [𝐀𝐝𝐢𝐭𝐲𝐚 𝐒𝐞𝐫𝐯𝐞𝐫](https://t.me/adityaserver).**
+**🔥 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : [𝐀𝐦𝐚𝐧 𝐘𝐚𝐝𝐚𝐯](https://t.me/A_4_AMAN_YADAV_0FFICIAL).**
 **━━━━━━━━━━━━━━━━━━━**"""
         if message.chat.id != LOG_GROUP_ID:
             try:
