@@ -134,7 +134,7 @@ class App(Client):
                 await self.three.send_message(
                     config.LOG_GROUP_ID,
                     f"**━━━━━━━━━━━━━━━━━━━**\n**✅ 𝐀𝐬𝐬𝐢𝐬𝐭𝐚𝐧𝐭 𝟑 𝐇𝐚𝐬 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 🥳**\n**━━━━━━━━━━━━━━━━━━━**\n**🥀 𝐍𝐚𝐦𝐞 ›** {self.three.name}\n**🌸 𝐋𝐢𝐧𝐤 : ›** @{self.three.username}\n**🌷 𝐈𝐃✩ : ›** `{self.three.id}`\n**━━━━━━━━━━━━━━━━━━━**\n**🔥 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 : [Mental owner ](https://t.me/+51ALCWvh92AyMmZl).**\n**━━━━━━━━━━━━━━━━━━━
-                ](https://t.me/adityaserver).**\n**━━━━━━━━━━━━━━━━━━━**",
+                
                   disable_web_page_preview=True
                 )
             except:
